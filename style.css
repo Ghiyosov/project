@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: rgb(227, 45, 45);
+    display: flex;
+    color: white;
+    box-shadow: 0px 10px 10px black;
+
+}
+.navbar h3{
+    margin: 15px;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+}
+.home1{
+    background-color: white;
+
+}
+.home{
+    color: black;
+
+}
+.midle{
+    background-color: rgb(226, 40, 40);
+    text-align: center;
+    padding-top: 100px;
+    color: white;
+    height: 400px;
+}
+.midle h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 60px;
+}
+.midle h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    margin: 70px;
+}
+.midle .get{
+    background-color: black;
+    width: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    padding: 10px;
+margin: auto;}
+.midle2{
+    display: flex;
+    margin-top: 100px;
+}
+.text{
+    width: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    margin-left: 300px ;
+    padding: 50px;
+}
+.text h1{
+    font-weight: 300;
+    margin-bottom: 30px;
+}
+.p2{
+    font-weight: 600;
+    margin-bottom: 30px;
+    
+}
+.p1{
+    color: gray;
+}
+
+.img1{
+}
+.midle5{
+    display: flex;
+    margin-top: 100px;
+    background-color: #F1F1F1;
+    padding-bottom: 50px;
+}
+.img2{
+    margin-left: 200px;
+    margin-right: -300px;
+    margin-top: 90px;
+}
+.midle3{
+    background-color: gray;
+    color: white;
+    text-align: center;
+    
+}
+.midle3 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    padding: 80px;
+
+}
+.midle4{
+    text-align: center;
+}
+.midle4 p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 50px;
+    color: gray;
+}
